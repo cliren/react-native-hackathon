@@ -1,0 +1,30 @@
+{
+  "name": "react-native-hackathon",
+  "version": "0.0.1",
+  "description": "React Native hackathon.",
+  "main": "index.js",
+  "scripts": {
+    "docs:clean": "rimraf _book",
+    "docs:prepare": "gitbook install",
+    "docs:build": "npm run docs:prepare && gitbook build -g react-native-hackathon",
+    "docs:watch": "npm run docs:prepare && gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodreads/react-native-hackathon.git"
+  },
+  "keywords": [
+    "React",
+    "Native"
+  ],
+  "author": "goodreads",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodreads/react-native-hackathon/issues"
+  },
+  "homepage": "https://github.com/goodreads/react-native-hackathon#readme",
+  "devDependencies": {
+    "gitbook-cli": "0.3.4",
+    "rimraf": "2.3.4"
+  }
+}
