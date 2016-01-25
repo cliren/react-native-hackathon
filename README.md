@@ -1,5 +1,7 @@
-# react-native-examples
+# React Native Hackathon
 
-React native examples for developers to learn and play with!
+Start exploring React Native features and build awesome Apps.
+
+Follow the [docs](goodreads.github.io/react-native-hackathon/index.html)  to get started.
 
 ![React Native](cover.png)
