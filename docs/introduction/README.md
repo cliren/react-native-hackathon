@@ -8,5 +8,3 @@ production apps and will continue investing in React Native.
 
 This book guides you through the basic setup required to get started with React Native (this might be a duplication
 of the React Native docs but having all the required information offline helps).
-
-Follow the below setup instructions for iOS and android to get started.

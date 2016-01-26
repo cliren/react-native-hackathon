@@ -1,3 +1,1 @@
-# React Native Hackathon
-
-![React Native](cover.png)
+![React Native](REACTcover.png)
