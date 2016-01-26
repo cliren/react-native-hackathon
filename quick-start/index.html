@@ -5,7 +5,7 @@
         
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <title>Setup | </title>
+        <title>Getting Started | </title>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="generator" content="GitBook 2.4.3">
@@ -29,10 +29,10 @@
         
     
     
-    <link rel="next" href="../setup/ios/index.html" />
+    <link rel="next" href="../integrating-with-existing-apps/index.html" />
     
     
-    <link rel="prev" href="../introduction/index.html" />
+    <link rel="prev" href="../setup/android/index.html" />
     
 
         
@@ -40,7 +40,7 @@
     <body>
         
         
-    <div class="book" data-level="2" data-basepath=".." data-revision="Mon Jan 25 2016 17:16:39 GMT-0800 (PST)">
+    <div class="book" data-level="3" data-basepath=".." data-revision="Mon Jan 25 2016 17:16:39 GMT-0800 (PST)">
     
 
 <div class="book-summary">
@@ -86,7 +86,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="2" data-path="setup/index.html">
+        <li class="chapter " data-level="2" data-path="setup/index.html">
             
                 
                     <a href="../setup/index.html">
@@ -137,7 +137,7 @@
             
         </li>
     
-        <li class="chapter " data-level="3" data-path="quick-start/index.html">
+        <li class="chapter active" data-level="3" data-path="quick-start/index.html">
             
                 
                     <a href="../quick-start/index.html">
@@ -288,12 +288,36 @@
                 
                     <section class="normal" id="section-">
                     
-                        <h2 id="setup">Setup</h2>
-<p>Follow the below setup instructions for iOS and android to get started.</p>
-<ul>
-<li><a href="ios/index.html">iOS</a></li>
-<li><a href="android/index.html">android</a></li>
+                        <h2 id="getting-started">Getting Started</h2>
+<p>Once you have setup your environment for iOS or android, it is now time to start creating a project and seeing it in action.</p>
+<h3 id="install-react-native-client-using-npm-globally">Install react-native-client using npm globally</h3>
+<pre><code>$ npm install -g react-native-cli
+</code></pre><h3 id="create-a-new-project">Create a new project</h3>
+<p>In your terminal, navigate to a directory where you want to create the project and runt he following. Its going to create a basic
+React Native project with all the required dependencies. Feel free to change the project name i.e, MyProject to something you like.</p>
+<pre><code>$ react-native init MyProject
+</code></pre><h3 id="run-the-ios-app">Run the iOS app:</h3>
+<pre><code>$ cd MyProject
+</code></pre><ul>
+<li>Open ios/MyProject.xcodeproj and hit run in Xcode.</li>
+<li>Open index.ios.js in your text editor of choice and edit some lines.</li>
+<li>Hit &#x2318;-R in your iOS simulator to reload the app and see your change!</li>
 </ul>
+<h3 id="run-the-android-app">Run the Android app:</h3>
+<pre><code>$ cd MyProject
+</code></pre><ul>
+<li>Open android using Android Studio.</li>
+<li>Refer to <a href="https://facebook.github.io/react-native/docs/android-setup.html" target="_blank">Android Development environment setup</a> for more details.<ul>
+<li>This involves<ul>
+<li>Setting up Java SDK</li>
+<li>Setting up Android Studio</li>
+<li>Creating an Android emulator (or Genymotion emulator which is faster than the default one) and running it.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Note: Follow the original instructions for any latest updates <a href="https://facebook.github.io/react-native/docs/getting-started.html#quick-start" target="_blank">Getting Started</a></p>
 
                     
                     </section>
@@ -304,10 +328,10 @@
         </div>
 
         
-        <a href="../introduction/index.html" class="navigation navigation-prev " aria-label="Previous page: Introduction"><i class="fa fa-angle-left"></i></a>
+        <a href="../setup/android/index.html" class="navigation navigation-prev " aria-label="Previous page: Android Setup"><i class="fa fa-angle-left"></i></a>
         
         
-        <a href="../setup/ios/index.html" class="navigation navigation-next " aria-label="Next page: iOS Setup"><i class="fa fa-angle-right"></i></a>
+        <a href="../integrating-with-existing-apps/index.html" class="navigation navigation-next " aria-label="Next page: Integrating with Existing Apps"><i class="fa fa-angle-right"></i></a>
         
     </div>
 </div>
