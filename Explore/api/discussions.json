@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Test Group",
+    "updatedAt": "2016-01-08T11:31:19.000-08:00",
+    "book": {
+      "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1388198466i/18897751._SY180_.jpg",
+      "bookId": "18897751",
+      "workId": "19235439",
+      "bookUrl": "/book/show/18897751-rent-collector",
+      "authorName": "Camron Wright",
+      "isGrAuthor": true,
+      "authorUrl": "/author/show/79303.Camron_Wright",
+      "title": "Rent Collector",
+      "numPages": 304,
+      "avgRating": "4.23"
+    },
+    "topics": [
+      {
+        "name": "Why is this book important?",
+        "numOfPosts": 5,
+        "numViews": 45,
+        "updatedAt": "2016-01-08T11:31:19.000-08:00",
+        "messages": [
+          {
+            "message": "It is important because it brings ... out of a person.",
+            "updatedAt": "2016-01-08T11:31:19.000-08:00",
+            "user": {
+              "viewableName": "Otis Chandler",
+              "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+              "profileUrl": "/user/show/1-otis-chandler"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

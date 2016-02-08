@@ -1,0 +1,158 @@
+{
+  "userstatus:84416170:cc": {
+    "numComments": 1,
+    "unsavedComment": "",
+    "comments": [
+      {
+        "id": 145664977,
+        "body": {
+          "html": "Hi Jeff. I will start in Jan 25. The Chinese book club is great. Please wait for me to join if possible. I always want to read this book. Thanks for the recommendation. Will get one soon！"
+        },
+        "createdAt": "2016-01-08T10:13:59.000-08:00",
+        "authorUser": {
+          "viewableName": "Feiyu Yin",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1434060345i/42666308._UY60_CR5,0,60,60_.jpg",
+          "profileUrl": "/user/show/42666308-feiyu-yin"
+        },
+        "deletableByCurrentUser": true
+      }
+    ],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "userstatus:84405475:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "readstatus:1163671737:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "readstatus:1163248320:cc": {
+    "numComments": 1,
+    "unsavedComment": "",
+    "comments": [
+      {
+        "id": 145664977,
+        "body": {
+          "html": "Hi Jeff. I will start in Jan 25. The Chinese book club is great. Please wait for me to join if possible. I always want to read this book. Thanks for the recommendation. Will get one soon！"
+        },
+        "createdAt": "2016-01-08T10:13:59.000-08:00",
+        "authorUser": {
+          "viewableName": "Feiyu Yin",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1434060345i/42666308._UY60_CR5,0,60,60_.jpg",
+          "profileUrl": "/user/show/42666308-feiyu-yin"
+        },
+        "deletableByCurrentUser": true
+      }
+    ],
+
+
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "readstatus:1163219243:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "readstatus:1162785421:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "readstatus:1161892117:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "readstatus:1160907120:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "readstatus:1160608149:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "review:1501569994:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "friend:446647733:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "friend:446412071:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "recommendation:20527963:cc": {
+    "numComments": 0,
+    "unsavedComment": "",
+    "comments": [],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  },
+  "recommendation:20526868:cc": {
+    "numComments": 1,
+    "unsavedComment": "",
+    "comments": [
+      {
+        "id": 145664977,
+        "body": {
+          "html": "Hi Jeff. I will start in Jan 25. The Chinese book club is great. Please wait for me to join if possible. I always want to read this book. Thanks for the recommendation. Will get one soon！"
+        },
+        "createdAt": "2016-01-08T10:13:59.000-08:00",
+        "authorUser": {
+          "viewableName": "Feiyu Yin",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1434060345i/42666308._UY60_CR5,0,60,60_.jpg",
+          "profileUrl": "/user/show/42666308-feiyu-yin"
+        },
+        "deletableByCurrentUser": true
+      }
+    ],
+    "showCommentButton": false,
+    "saveInProgress": false,
+    "textareaRows": 1
+  }
+}

@@ -1,0 +1,1121 @@
+{
+  "newsfeedUpdates": [
+    {
+      "id": 2818739647,
+      "resourceDisplayName": "Brian’s status",
+      "resourceId": 1163248320,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1163248320",
+      "updatedAt": "2016-01-08T11:31:19.000-08:00",
+      "uniqueId": "163323",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1163248320",
+          "label": "Brian’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1163248320:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1163248320/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1163248320
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1388198466i/18897751._SY180_.jpg",
+        "bookId": "18897751",
+        "workId": "19235439",
+        "bookUrl": "/book/show/18897751-rent-collector",
+        "authorName": "Camron Wright",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/79303.Camron_Wright",
+        "title": "Rent Collector",
+        "numPages": 304,
+        "avgRating": "4.23"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": "",
+        "user": {
+          "viewableName": "Brian",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1386647011i/145381._UX60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/145381-brian"
+        }
+      },
+      "shelvingId": 1480764763,
+      "markedBy" :{
+
+      }
+    },
+    {
+      "id": 2818697630,
+      "resourceDisplayName": "Kyusik’s status",
+      "resourceId": 1163219243,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1163219243",
+      "updatedAt": "2016-01-08T11:16:57.000-08:00",
+      "uniqueId": "885607",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1163219243",
+          "label": "Kyusik’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1163219243:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1163219243/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1163219243
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1440005972i/15451058._SY180_.jpg",
+        "bookId": "15451058",
+        "workId": "44904964",
+        "bookUrl": "/book/show/15451058-my-life-on-the-road",
+        "authorName": "Gloria Steinem",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/57108.Gloria_Steinem",
+        "title": "My Life on the Road",
+        "numPages": 304,
+        "avgRating": "4.16"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Kyusik Chung",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1299741647i/1969124._UY60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/1969124-kyusik-chung"
+        }
+      },
+      "shelvingId": 1501318461
+    },
+    {
+      "id": 2818618173,
+      "resourceDisplayName": "Otis’s recommendation of Harry Potter and the Chamber of Secrets (Harry Potter #2)",
+      "resourceId": 20527963,
+      "resourceType": "Recommendation",
+      "resourceUrl": "https://www.goodreads.com/recommendations/20527963",
+      "updatedAt": "2016-01-08T10:48:55.000-08:00",
+      "uniqueId": "974192",
+      "social": {
+        "liking": {
+          "key": "rating_users_Recommendation20527963",
+          "label": "Otis’s recommendation of Harry Potter and the Chamber of Secrets (Harry Potter #2)"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "recommendation:20527963:cc",
+          "subjectUrl": "https://www.goodreads.com/recommendation/20527963/comments",
+          "subject": {
+            "type": "Recommendation",
+            "id": 20527963
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1370043634i/15881._SY180_.jpg",
+        "bookId": "15881",
+        "workId": "6231171",
+        "bookUrl": "/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets",
+        "authorName": "J.K. Rowling",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/1077326.J_K_Rowling",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "numPages": 341,
+        "avgRating": "4.33"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "message": null,
+        "recommendedToYou": false,
+        "user": {
+          "viewableName": "Otis Chandler",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+          "profileUrl": "/user/show/1-otis-chandler"
+        },
+        "toUser": {
+          "viewableName": "Michael Economy",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1389653970i/73._UY60_CR7,0,60,60_.jpg",
+          "profileUrl": "/user/show/73-michael-economy"
+        }
+      }
+    },
+    {
+      "id": 2818525989,
+      "resourceDisplayName": "Maryana is a friend of Jared",
+      "resourceId": 446518335,
+      "resourceType": "Friend",
+      "resourceUrl": "https://www.goodreads.com/friend/show/446518335",
+      "updatedAt": "2016-01-08T10:17:03.000-08:00",
+      "uniqueId": "493738",
+      "social": {
+        "liking": {
+          "key": "rating_users_Friend446518335",
+          "label": "Maryana is a friend of Jared"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "friend:446518335:cc",
+          "subjectUrl": "https://www.goodreads.com/friend/446518335/comments",
+          "subject": {
+            "type": "Friend",
+            "id": 446518335
+          }
+        }
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "ratingDetailsText": "156 ratings (3.97 avg)",
+        "user": {
+          "viewableName": "Maryana Pinchuk",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1452025115i/41241696._UX60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/41241696-maryana-pinchuk"
+        },
+        "friendUser": {
+          "viewableName": "Jared",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1404504571i/19901321._UX75_CR0,12,75,75_.jpg",
+          "profileUrl": "/user/show/19901321-jared"
+        },
+        "isMyFriend": false,
+        "isRequestPending": false,
+        "addFriendUrl": "/friend/add_as_friend/19901321",
+        "compareBooksUrl": "/user/compare/19901321",
+        "currentlyReadingBook": {
+          "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1450995153i/28319514._SY40_.jpg",
+          "bookId": "28319514",
+          "workId": "45065096",
+          "bookUrl": "/book/show/28319514-der-dinge-erkl-rer---thing-explainer",
+          "authorName": "Randall Munroe",
+          "isGrAuthor": true,
+          "authorUrl": "/author/show/3089156.Randall_Munroe",
+          "title": "Der Dinge-Erklärer - Thing Explainer",
+          "numPages": 72,
+          "avgRating": "4.25"
+        }
+      }
+    },
+    {
+      "id": 2818399201,
+      "resourceDisplayName": "jeff’s recommendation of The Dark Forest (Three-Body, #2)",
+      "resourceId": 20526868,
+      "resourceType": "Recommendation",
+      "resourceUrl": "https://www.goodreads.com/recommendations/20526868",
+      "updatedAt": "2016-01-08T09:35:18.000-08:00",
+      "uniqueId": "316543",
+      "social": {
+        "liking": {
+          "key": "rating_users_Recommendation20526868",
+          "label": "jeff’s recommendation of The Dark Forest (Three-Body, #2)"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "recommendation:20526868:cc",
+          "subjectUrl": "https://www.goodreads.com/recommendation/20526868/comments",
+          "subject": {
+            "type": "Recommendation",
+            "id": 20526868
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1412064931i/23168817._SY180_.jpg",
+        "bookId": "23168817",
+        "workId": "42713958",
+        "bookUrl": "/book/show/23168817-the-dark-forest",
+        "authorName": "Liu Cixin",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/5780686.Liu_Cixin",
+        "title": "The Dark Forest",
+        "numPages": 512,
+        "avgRating": "4.44"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "message": "Hey Feiyu, are you interested in continuing the series? A bunch of us are reading it and we will be having a Chinese book club meeting about it. When are you starting? we can schedule the meeting after your start date. You probably should order the Chinese version soon though if you want to join in!",
+        "recommendedToYou": false,
+        "user": {
+          "viewableName": "jeff wong",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1365029540i/19059508._UX60_CR0,5,60,60_.jpg",
+          "profileUrl": "/user/show/19059508-jeff-wong"
+        },
+        "toUser": {
+          "viewableName": "Feiyu Yin",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1434060345i/42666308._UY60_CR5,0,60,60_.jpg",
+          "profileUrl": "/user/show/42666308-feiyu-yin"
+        }
+      }
+    },
+    {
+      "id": 2818159881,
+      "resourceDisplayName": "Michael is a friend of Justin",
+      "resourceId": 446412071,
+      "resourceType": "Friend",
+      "resourceUrl": "https://www.goodreads.com/friend/show/446412071",
+      "updatedAt": "2016-01-08T08:16:51.000-08:00",
+      "uniqueId": "446075",
+      "social": {
+        "liking": {
+          "key": "rating_users_Friend446412071",
+          "label": "Michael is a friend of Justin"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "friend:446412071:cc",
+          "subjectUrl": "https://www.goodreads.com/friend/446412071/comments",
+          "subject": {
+            "type": "Friend",
+            "id": 446412071
+          }
+        }
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "ratingDetailsText": "13 ratings (4.46 avg)",
+        "user": {
+          "viewableName": "Michael Huff",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1406677280i/33485854.jpg",
+          "profileUrl": "/user/show/33485854-michael-huff"
+        },
+        "friendUser": {
+          "viewableName": "Justin Oliphant",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1352959348i/14604486._UY75_CR19,0,75,75_.jpg",
+          "profileUrl": "/user/show/14604486-justin-oliphant"
+        },
+        "isMyFriend": false,
+        "isRequestPending": false,
+        "addFriendUrl": "/friend/add_as_friend/14604486",
+        "compareBooksUrl": "/user/compare/14604486"
+      }
+    },
+    {
+      "id": 2818138854,
+      "resourceDisplayName": "Sarah’s status",
+      "resourceId": 1162785421,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1162785421",
+      "updatedAt": "2016-01-08T08:10:07.000-08:00",
+      "uniqueId": "687289",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1162785421",
+          "label": "Sarah’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1162785421:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1162785421/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1162785421
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1281507529i/7756525._SY180_.jpg",
+        "bookId": "7756525",
+        "workId": "6526004",
+        "bookUrl": "/book/show/7756525-lit",
+        "authorName": "Mary Karr",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/8865.Mary_Karr",
+        "title": "Lit",
+        "numPages": 386,
+        "avgRating": "3.84"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Sarah",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1433941002i/1252572._UY60_CR15,0,60,60_.jpg",
+          "profileUrl": "/user/show/1252572-sarah"
+        }
+      },
+      "shelvingId": 1501063123
+    },
+    {
+      "id": 2816894750,
+      "resourceDisplayName": "Sarah’s status",
+      "resourceId": 1161892117,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1161892117",
+      "updatedAt": "2016-01-07T22:28:39.000-08:00",
+      "uniqueId": "88528",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1161892117",
+          "label": "Sarah’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1161892117:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1161892117/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1161892117
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1383556169i/277745._SX120_.jpg",
+        "bookId": "277745",
+        "workId": "269369",
+        "bookUrl": "/book/show/277745.Hothead_Paisan",
+        "authorName": "Diane DiMassa",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/161810.Diane_DiMassa",
+        "title": "Hothead Paisan",
+        "numPages": 160,
+        "avgRating": "3.94"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Sarah",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1433941002i/1252572._UY60_CR15,0,60,60_.jpg",
+          "profileUrl": "/user/show/1252572-sarah"
+        }
+      },
+      "shelvingId": 1500530247
+    },
+    {
+      "id": 2815548664,
+      "resourceDisplayName": "Sukhesh’s status",
+      "resourceId": 1160907120,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1160907120",
+      "updatedAt": "2016-01-07T15:38:06.000-08:00",
+      "uniqueId": "94829",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1160907120",
+          "label": "Sukhesh’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1160907120:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1160907120/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1160907120
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1436570768i/24611630._SY180_.jpg",
+        "bookId": "24611630",
+        "workId": "40167093",
+        "bookUrl": "/book/show/24611630-stalin",
+        "authorName": "Stephen Kotkin",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/265.Stephen_Kotkin",
+        "title": "Stalin",
+        "numPages": 976,
+        "avgRating": "4.25"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Sukhesh Miryala",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1409177807i/34374627.jpg",
+          "profileUrl": "/user/show/34374627-sukhesh-miryala"
+        }
+      },
+      "shelvingId": 1499940463
+    },
+    {
+      "id": 2815224375,
+      "resourceDisplayName": "Anthony’s status",
+      "resourceId": 1160608149,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1160608149",
+      "updatedAt": "2016-01-07T13:21:44.000-08:00",
+      "uniqueId": "112933",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1160608149",
+          "label": "Anthony’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1160608149:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1160608149/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1160608149
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1435801343i/25013184._SY180_.jpg",
+        "bookId": "25013184",
+        "workId": "44684998",
+        "bookUrl": "/book/show/25013184-star-wars",
+        "authorName": "Mark Waid",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/5363.Mark_Waid",
+        "title": "Star Wars",
+        "numPages": 120,
+        "avgRating": "3.51"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Anthony",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1384022842i/14436697._UX60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/14436697-anthony"
+        }
+      },
+      "shelvingId": 1499769747
+    },
+    {
+      "id": 2815171561,
+      "resourceDisplayName": "Jonathan’s status",
+      "resourceId": 1160560166,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1160560166",
+      "updatedAt": "2016-01-07T13:00:10.000-08:00",
+      "uniqueId": "538627",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1160560166",
+          "label": "Jonathan’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1160560166:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1160560166/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1160560166
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1440378421i/26154406._SX120_.jpg",
+        "bookId": "26154406",
+        "workId": "45670644",
+        "bookUrl": "/book/show/26154406-the-passenger",
+        "authorName": "Lisa Lutz",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/74189.Lisa_Lutz",
+        "title": "The Passenger",
+        "numPages": 320,
+        "avgRating": "3.85"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Jonathan Swartz",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1448908075i/13359689._UX60_CR0,3,60,60_.jpg",
+          "profileUrl": "/user/show/13359689-jonathan-swartz"
+        }
+      },
+      "shelvingId": 1499742035
+    },
+    {
+      "id": 2814850870,
+      "resourceDisplayName": "Kyusik’s status",
+      "resourceId": 1160273972,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1160273972",
+      "updatedAt": "2016-01-07T10:49:22.000-08:00",
+      "uniqueId": "197570",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1160273972",
+          "label": "Kyusik’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1160273972:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1160273972/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1160273972
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1437159954i/17171909._SX120_.jpg",
+        "bookId": "17171909",
+        "workId": "23599367",
+        "bookUrl": "/book/show/17171909-brilliance",
+        "authorName": "Marcus Sakey",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/38652.Marcus_Sakey",
+        "title": "Brilliance",
+        "numPages": 439,
+        "avgRating": "3.89"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Kyusik Chung",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1299741647i/1969124._UY60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/1969124-kyusik-chung"
+        }
+      },
+      "shelvingId": 1499579977
+    },
+    {
+      "id": 2814849795,
+      "resourceDisplayName": "Kyusik’s status",
+      "resourceId": 1160273029,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1160273029",
+      "updatedAt": "2016-01-07T10:48:50.000-08:00",
+      "uniqueId": "362577",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1160273029",
+          "label": "Kyusik’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1160273029:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1160273029/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1160273029
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1378873665i/18184308._SX120_.jpg",
+        "bookId": "18184308",
+        "workId": "24337881",
+        "bookUrl": "/book/show/18184308-dawn-of-swords",
+        "authorName": "David Dalglish",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/3399559.David_Dalglish",
+        "title": "Dawn of Swords",
+        "numPages": 588,
+        "avgRating": "3.56"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Kyusik Chung",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1299741647i/1969124._UY60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/1969124-kyusik-chung"
+        }
+      },
+      "shelvingId": 1499579426
+    },
+    {
+      "id": 2814837087,
+      "resourceDisplayName": "Michael’s status",
+      "resourceId": 84280474,
+      "resourceType": "UserStatus",
+      "resourceUrl": "https://www.goodreads.com/user_status/show/84280474",
+      "updatedAt": "2016-01-07T10:43:39.000-08:00",
+      "uniqueId": "938526",
+      "social": {
+        "liking": {
+          "key": "rating_users_UserStatus84280474",
+          "label": "Michael’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "userstatus:84280474:cc",
+          "subjectUrl": "https://www.goodreads.com/user_status/84280474/comments",
+          "subject": {
+            "type": "UserStatus",
+            "id": 84280474
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1327899791i/7495987._SY180_.jpg",
+        "bookId": "7495987",
+        "workId": "3271542",
+        "bookUrl": "/book/show/7495987-infinite-jest",
+        "authorName": "David Foster Wallace",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/4339.David_Foster_Wallace",
+        "title": "Infinite Jest",
+        "numPages": 1079,
+        "avgRating": "4.33"
+      },
+      "resource": {
+        "userStatusText": "",
+        "headerText": " is 32% done with ",
+        "maxProgressValue": 100,
+        "progressValue": 32,
+        "pageProgressText": "32%",
+        "user": {
+          "viewableName": "Michael Economy",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1389653970i/73._UY60_CR7,0,60,60_.jpg",
+          "profileUrl": "/user/show/73-michael-economy"
+        }
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "shelvingId": 1158655790
+    },
+    {
+      "id": 2814836901,
+      "resourceDisplayName": "Michael’s status",
+      "resourceId": 84280464,
+      "resourceType": "UserStatus",
+      "resourceUrl": "https://www.goodreads.com/user_status/show/84280464",
+      "updatedAt": "2016-01-07T10:43:33.000-08:00",
+      "uniqueId": "253546",
+      "social": {
+        "liking": {
+          "key": "rating_users_UserStatus84280464",
+          "label": "Michael’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "userstatus:84280464:cc",
+          "subjectUrl": "https://www.goodreads.com/user_status/84280464/comments",
+          "subject": {
+            "type": "UserStatus",
+            "id": 84280464
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1359474520i/8108279._SX120_.jpg",
+        "bookId": "8108279",
+        "workId": "2361393",
+        "bookUrl": "/book/show/8108279-walden",
+        "authorName": "Henry David Thoreau",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/10264.Henry_David_Thoreau",
+        "title": "Walden",
+        "numPages": 15,
+        "avgRating": "3.79"
+      },
+      "resource": {
+        "userStatusText": "",
+        "headerText": " is 95% done with ",
+        "maxProgressValue": 100,
+        "progressValue": 95,
+        "pageProgressText": "95%",
+        "user": {
+          "viewableName": "Michael Economy",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1389653970i/73._UY60_CR7,0,60,60_.jpg",
+          "profileUrl": "/user/show/73-michael-economy"
+        }
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "shelvingId": 1422741075
+    },
+    {
+      "id": 2814835077,
+      "resourceDisplayName": "Morgan’s status",
+      "resourceId": 1160259837,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1160259837",
+      "updatedAt": "2016-01-07T10:42:42.000-08:00",
+      "uniqueId": "897029",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1160259837",
+          "label": "Morgan’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1160259837:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1160259837/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1160259837
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1320419177i/2118114._SX120_.jpg",
+        "bookId": "2118114",
+        "workId": "2123548",
+        "bookUrl": "/book/show/2118114.Sway",
+        "authorName": "Ori Brafman",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/12441.Ori_Brafman",
+        "title": "Sway",
+        "numPages": 206,
+        "avgRating": "3.73"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Morgan",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1448476702i/46099124._UY60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/46099124-morgan"
+        }
+      },
+      "shelvingId": 1499571954
+    },
+    {
+      "id": 2814779727,
+      "resourceDisplayName": "Brian’s status",
+      "resourceId": 1160209591,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1160209591",
+      "updatedAt": "2016-01-07T10:19:00.000-08:00",
+      "uniqueId": "880763",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1160209591",
+          "label": "Brian’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1160209591:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1160209591/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1160209591
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1440378421i/26154406._SX120_.jpg",
+        "bookId": "26154406",
+        "workId": "45670644",
+        "bookUrl": "/book/show/26154406-the-passenger",
+        "authorName": "Lisa Lutz",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/74189.Lisa_Lutz",
+        "title": "The Passenger",
+        "numPages": 320,
+        "avgRating": "3.85"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Brian",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1386647011i/145381._UX60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/145381-brian"
+        }
+      },
+      "shelvingId": 1499543525
+    },
+    {
+      "id": 2814752298,
+      "resourceDisplayName": "Morgan’s status",
+      "resourceId": 1160183519,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1160183519",
+      "updatedAt": "2016-01-07T10:07:21.000-08:00",
+      "uniqueId": "5974",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1160183519",
+          "label": "Morgan’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1160183519:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1160183519/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1160183519
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1349927872i/49552._SY180_.jpg",
+        "bookId": "49552",
+        "workId": "3324344",
+        "bookUrl": "/book/show/49552.The_Stranger",
+        "authorName": "Albert Camus",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/957894.Albert_Camus",
+        "title": "The Stranger",
+        "numPages": 123,
+        "avgRating": "3.94"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Morgan",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1448476702i/46099124._UY60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/46099124-morgan"
+        }
+      },
+      "shelvingId": 1499528696
+    },
+    {
+      "id": 2814710796,
+      "resourceDisplayName": "Kyusik’s status",
+      "resourceId": 84275563,
+      "resourceType": "UserStatus",
+      "resourceUrl": "https://www.goodreads.com/user_status/show/84275563",
+      "updatedAt": "2016-01-07T09:49:36.000-08:00",
+      "uniqueId": "693317",
+      "social": {
+        "liking": {
+          "key": "rating_users_UserStatus84275563",
+          "label": "Kyusik’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "userstatus:84275563:cc",
+          "subjectUrl": "https://www.goodreads.com/user_status/84275563/comments",
+          "subject": {
+            "type": "UserStatus",
+            "id": 84275563
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1451555832i/6081296._SY180_.jpg",
+        "bookId": "6081296",
+        "workId": "2481792",
+        "bookUrl": "/book/show/6081296-gilead",
+        "authorName": "Marilynne Robinson",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/7491.Marilynne_Robinson",
+        "title": "Gilead",
+        "numPages": 289,
+        "avgRating": "3.82"
+      },
+      "resource": {
+        "userStatusText": null,
+        "headerText": " is 9% done with ",
+        "maxProgressValue": 100,
+        "progressValue": 9,
+        "pageProgressText": "9%",
+        "user": {
+          "viewableName": "Kyusik Chung",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1299741647i/1969124._UY60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/1969124-kyusik-chung"
+        }
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "shelvingId": 1445945000
+    },
+    {
+      "id": 2814573517,
+      "resourceDisplayName": "Sarah’s status",
+      "resourceId": 84270692,
+      "resourceType": "UserStatus",
+      "resourceUrl": "https://www.goodreads.com/user_status/show/84270692",
+      "updatedAt": "2016-01-07T08:51:30.000-08:00",
+      "uniqueId": "230173",
+      "social": {
+        "liking": {
+          "key": "rating_users_UserStatus84270692",
+          "label": "Sarah’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "userstatus:84270692:cc",
+          "subjectUrl": "https://www.goodreads.com/user_status/84270692/comments",
+          "subject": {
+            "type": "UserStatus",
+            "id": 84270692
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1409488411i/22501022._SX120_.jpg",
+        "bookId": "22501022",
+        "workId": "9509758",
+        "bookUrl": "/book/show/22501022-my-struggle",
+        "authorName": "Karl Ove Knausgård",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/3020048.Karl_Ove_Knausg_rd",
+        "title": "My Struggle",
+        "numPages": 451,
+        "avgRating": "4.14"
+      },
+      "resource": {
+        "userStatusText": "",
+        "headerText": " is 7% done with ",
+        "maxProgressValue": 100,
+        "progressValue": 7,
+        "pageProgressText": "7%",
+        "user": {
+          "viewableName": "Sarah",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1433941002i/1252572._UY60_CR15,0,60,60_.jpg",
+          "profileUrl": "/user/show/1252572-sarah"
+        }
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "shelvingId": 1379543003
+    },
+    {
+      "id": 2814573118,
+      "resourceDisplayName": "Sarah’s status",
+      "resourceId": 1160024302,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://www.goodreads.com/read_statuses/1160024302",
+      "updatedAt": "2016-01-07T08:51:17.000-08:00",
+      "uniqueId": "695779",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1160024302",
+          "label": "Sarah’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1160024302:cc",
+          "subjectUrl": "https://www.goodreads.com/read_status/1160024302/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1160024302
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1409488411i/22501022._SX120_.jpg",
+        "bookId": "22501022",
+        "workId": "9509758",
+        "bookUrl": "/book/show/22501022-my-struggle",
+        "authorName": "Karl Ove Knausgård",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/3020048.Karl_Ove_Knausg_rd",
+        "title": "My Struggle",
+        "numPages": 451,
+        "avgRating": "4.14"
+      },
+      "user": {
+        "viewableName": "Suren",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1446837005i/44153179.jpg",
+        "profileUrl": "/user/show/44153179-suren"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Sarah",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1433941002i/1252572._UY60_CR15,0,60,60_.jpg",
+          "profileUrl": "/user/show/1252572-sarah"
+        }
+      },
+      "shelvingId": 1379543003
+    }
+  ]
+}

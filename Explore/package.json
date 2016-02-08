@@ -1,0 +1,18 @@
+{
+  "name": "Explore",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "0.19.0",
+    "react-native-swiper": "1.4.3",
+    "react-redux": "3.1.2",
+    "redux": "^3.0.5"
+  },
+  "devDependencies": {
+    "lodash": "3.10.1",
+    "moment": "2.11.0"
+  }
+}

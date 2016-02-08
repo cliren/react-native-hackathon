@@ -1,0 +1,1684 @@
+{
+  "newsfeedUpdates": [
+    {
+      "id": 70294028016380,
+      "resourceType": "Rating",
+      "resource": {
+        "user": {
+          "viewableName": "Sukhesh Miryala",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1409177807i/34374627.jpg",
+          "profileUrl": "/user/show/34374627-sukhesh-miryala"
+        }
+      },
+      "update": {
+        "id": 60638437,
+        "resourceDisplayName": "Katie’s review of Are You My Mother?",
+        "resourceId": 1467961668,
+        "resourceType": "Review",
+        "resourceUrl": "https://localhost:3001/review/show/1467961668",
+        "updatedAt": "2016-01-18T15:34:14.000-08:00",
+        "uniqueId": "560670",
+        "social": {
+          "liking": {
+            "key": "rating_users_Review1467961668",
+            "label": "Katie’s review of Are You My Mother?"
+          },
+          "commenting": {
+            "commentable": true,
+            "canComment": true,
+            "subjectKey": "review:1467961668:cc",
+            "subjectUrl": "https://localhost:3001/review/1467961668/comments",
+            "subject": {
+              "type": "Review",
+              "id": 1467961668
+            }
+          }
+        },
+        "book": {
+          "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1388205192i/11566956._SX120_.jpg",
+          "bookId": "11566956",
+          "workId": "16507555",
+          "bookUrl": "/book/show/11566956-are-you-my-mother",
+          "authorName": "Alison Bechdel",
+          "isGrAuthor": false,
+          "authorUrl": "/author/show/21982.Alison_Bechdel",
+          "title": "Are You My Mother?",
+          "numPages": 290,
+          "avgRating": "3.40"
+        },
+        "user": {
+          "viewableName": "Otis Chandler",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+          "profileUrl": "/user/show/1-otis-chandler"
+        },
+        "resource": {
+          "headerText": " rated a book",
+          "rating": 3,
+          "readAtText": "Read in Jan 2015",
+          "user": {
+            "viewableName": "Katie Boyer",
+            "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1363038527i/13868271._UY60_CR1,0,60,60_.jpg",
+            "profileUrl": "/user/show/13868271-katie-boyer"
+          }
+        }
+      }
+    },
+    {
+      "id": 2767736431,
+      "resourceDisplayName": "Bill’s comment",
+      "resourceId": 144676448,
+      "resourceType": "Comment",
+      "resourceUrl": "https://localhost:3001/comment/show/144676448",
+      "updatedAt": "2016-01-18T13:52:32.000-08:00",
+      "uniqueId": "173992",
+      "social": {
+        "liking": {
+          "key": "rating_users_Comment144676448",
+          "label": "Bill’s comment"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "comment:144676448:cc",
+          "subjectUrl": "https://localhost:3001/comment/144676448/comments",
+          "subject": {
+            "type": "Comment",
+            "id": 144676448
+          }
+        }
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      }
+    },
+    {
+      "id": 2767628436,
+      "resourceDisplayName": "Bill’s review of The Big Sleep",
+      "resourceId": 1465322006,
+      "resourceType": "Review",
+      "resourceUrl": "https://localhost:3001/review/show/1465322006",
+      "updatedAt": "2015-12-21T16:15:17.000-08:00",
+      "uniqueId": "534493",
+      "social": {
+        "liking": {
+          "key": "rating_users_Review1465322006",
+          "label": "Bill’s review of The Big Sleep"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "review:1465322006:cc",
+          "subjectUrl": "https://localhost:3001/review/1465322006/comments",
+          "subject": {
+            "type": "Review",
+            "id": 1465322006
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1371584712i/2052._SY180_.jpg",
+        "bookId": "2052",
+        "workId": "1222673",
+        "bookUrl": "/book/show/2052.The_Big_Sleep",
+        "authorName": "Raymond Chandler",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/1377.Raymond_Chandler",
+        "title": "The Big Sleep",
+        "numPages": 231,
+        "avgRating": "3.92"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "shelvingId": null,
+      "resource": {
+        "headerText": " reviewed a book",
+        "rating": 4,
+        "readAtText": "Read in Dec 2015",
+        "reviewBody": {
+          "html": "When I read the style of this book, I can't help but associate it with all the endless parodies out there, even down to the cartoons I watched as a kid. In spite of that, and the not-so-subtle misogyny throughout, this remains an engaging read, with lots of twists and turns, quotable lines, and doublecrosses. It's also set in possibly the rainiest week ever recorded in LA. I don't know how original Chandler's style…",
+          "truncated": true,
+          "fullContentUrl": "/review/show/1465322006"
+        },
+        "user": {
+          "viewableName": "Bill DePhillips",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1409001680i/3925186._UY60_CR2,0,60,60_.jpg",
+          "profileUrl": "/user/show/3925186-bill-dephillips"
+        }
+      }
+    },
+    {
+      "id": 2767622122,
+      "resourceDisplayName": "Bill’s review of Hark! A Vagrant",
+      "resourceId": 1460293785,
+      "resourceType": "Review",
+      "resourceUrl": "https://localhost:3001/review/show/1460293785",
+      "updatedAt": "2015-12-21T16:00:01.000-08:00",
+      "uniqueId": "11478",
+      "social": {
+        "liking": {
+          "key": "rating_users_Review1460293785",
+          "label": "Bill’s review of Hark! A Vagrant"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "review:1460293785:cc",
+          "subjectUrl": "https://localhost:3001/review/1460293785/comments",
+          "subject": {
+            "type": "Review",
+            "id": 1460293785
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1327877328i/10767466._SX120_.jpg",
+        "bookId": "10767466",
+        "workId": "15678952",
+        "bookUrl": "/book/show/10767466-hark-a-vagrant",
+        "authorName": "Kate Beaton",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/2921970.Kate_Beaton",
+        "title": "Hark! A Vagrant",
+        "numPages": 166,
+        "avgRating": "4.33"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "shelvingId": null,
+      "resource": {
+        "headerText": " reviewed a book",
+        "rating": 4,
+        "readAtText": "Read in Dec 2015",
+        "reviewBody": {
+          "html": "Funny literary and historical comics. My favorite section was the Nancy Drew covers.",
+          "truncated": false
+        },
+        "user": {
+          "viewableName": "Bill DePhillips",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1409001680i/3925186._UY60_CR2,0,60,60_.jpg",
+          "profileUrl": "/user/show/3925186-bill-dephillips"
+        }
+      }
+    },
+    {
+      "id": 2767619710,
+      "resourceDisplayName": "Chet’s status",
+      "resourceId": 1119372937,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1119372937",
+      "updatedAt": "2015-12-21T15:57:14.000-08:00",
+      "uniqueId": "519743",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1119372937",
+          "label": "Chet’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1119372937:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1119372937/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1119372937
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1327975923i/10534._SY180_.jpg",
+        "bookId": "10534",
+        "workId": "3200649",
+        "bookUrl": "/book/show/10534.The_Art_of_War",
+        "authorName": "Sun Tzu",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/1771.Sun_Tzu",
+        "title": "The Art of War",
+        "numPages": 273,
+        "avgRating": "3.00"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Chet",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1385357457i/19322905._UX60_CR0,10,60,60_.jpg",
+          "profileUrl": "/user/show/19322905-chet"
+        }
+      },
+      "shelvingId": 767054894
+    },
+    {
+      "id": 2767600238,
+      "resourceDisplayName": "Katie’s review of Are You My Mother?",
+      "resourceId": 1467961668,
+      "resourceType": "Review",
+      "resourceUrl": "https://localhost:3001/review/show/1467961668",
+      "updatedAt": "2015-12-21T15:42:42.000-08:00",
+      "uniqueId": "988336",
+      "social": {
+        "liking": {
+          "key": "rating_users_Review1467961668",
+          "label": "Katie’s review of Are You My Mother?"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "review:1467961668:cc",
+          "subjectUrl": "https://localhost:3001/review/1467961668/comments",
+          "subject": {
+            "type": "Review",
+            "id": 1467961668
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1388205192i/11566956._SX120_.jpg",
+        "bookId": "11566956",
+        "workId": "16507555",
+        "bookUrl": "/book/show/11566956-are-you-my-mother",
+        "authorName": "Alison Bechdel",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/21982.Alison_Bechdel",
+        "title": "Are You My Mother?",
+        "numPages": 290,
+        "avgRating": "3.40"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " rated a book",
+        "rating": 3,
+        "readAtText": "Read in Jan 2015",
+        "user": {
+          "viewableName": "Katie Boyer",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1363038527i/13868271._UY60_CR1,0,60,60_.jpg",
+          "profileUrl": "/user/show/13868271-katie-boyer"
+        }
+      }
+    },
+    {
+      "id": 2767520749,
+      "resourceDisplayName": "Maryana’s status",
+      "resourceId": 1119280377,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1119280377",
+      "updatedAt": "2015-12-21T14:51:21.000-08:00",
+      "uniqueId": "187557",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1119280377",
+          "label": "Maryana’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1119280377:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1119280377/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1119280377
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1327899791i/7495987._SY180_.jpg",
+        "bookId": "7495987",
+        "workId": "3271542",
+        "bookUrl": "/book/show/7495987-infinite-jest",
+        "authorName": "David Foster Wallace",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/4339.David_Foster_Wallace",
+        "title": "Infinite Jest",
+        "numPages": 1079,
+        "avgRating": "4.11"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Maryana Pinchuk",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1427231694i/41241696._UX60_CR0,8,60,60_.jpg",
+          "profileUrl": "/user/show/41241696-maryana-pinchuk"
+        }
+      },
+      "shelvingId": 1475519122
+    },
+    {
+      "id": 2767503391,
+      "resourceDisplayName": "stmak’s status",
+      "resourceId": 1119265550,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1119265550",
+      "updatedAt": "2015-12-21T14:40:47.000-08:00",
+      "uniqueId": "603158",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1119265550",
+          "label": "stmak’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1119265550:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1119265550/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1119265550
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1397056917i/19288043._SY180_.jpg",
+        "bookId": "19288043",
+        "workId": "13306276",
+        "bookUrl": "/book/show/19288043-gone-girl",
+        "authorName": "Gillian Flynn",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/2383.Gillian_Flynn",
+        "title": "Gone Girl",
+        "numPages": 422,
+        "avgRating": "3.65"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "stmak at_lab126",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1444343366i/22440321._UY60_CR6,0,60,60_.jpg",
+          "profileUrl": "/user/show/22440321-stmak-at-lab126"
+        }
+      },
+      "shelvingId": 1475510932
+    },
+    {
+      "id": 2767477739,
+      "resourceDisplayName": "Mike’s status",
+      "resourceId": 1119242002,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1119242002",
+      "updatedAt": "2015-12-21T14:24:49.000-08:00",
+      "uniqueId": "383838",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1119242002",
+          "label": "Mike’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1119242002:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1119242002/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1119242002
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1434568480i/232889._SX120_.jpg",
+        "bookId": "232889",
+        "workId": "225573",
+        "bookUrl": "/book/show/232889.The_New_Basics",
+        "authorName": "Michel Cohen",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/136294.Michel_Cohen",
+        "title": "The New Basics",
+        "numPages": 368,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as wtr-baby",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Mike Mueller",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1355990428i/9032502._UY60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/9032502-mike-mueller"
+        }
+      },
+      "shelvingId": 1475497554
+    },
+    {
+      "id": 2767426540,
+      "resourceDisplayName": "Nichole’s status",
+      "resourceId": 1119195183,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1119195183",
+      "updatedAt": "2015-12-21T13:53:43.000-08:00",
+      "uniqueId": "276403",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1119195183",
+          "label": "Nichole’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1119195183:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1119195183/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1119195183
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1223635699i/791506._SX120_.jpg",
+        "bookId": "791506",
+        "workId": "777490",
+        "bookUrl": "/book/show/791506.Genki_I",
+        "authorName": "Eri Banno",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/197370.Eri_Banno",
+        "title": "Genki I",
+        "numPages": 344,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Nichole Treadway",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1428336368i/41910901.jpg",
+          "profileUrl": "/user/show/41910901-nichole-treadway"
+        }
+      },
+      "shelvingId": 1475471312
+    },
+    {
+      "id": 2767395121,
+      "resourceDisplayName": "Mike’s review of Blackout (All Clear, #1)",
+      "resourceId": 916745274,
+      "resourceType": "Review",
+      "resourceUrl": "https://localhost:3001/review/show/916745274",
+      "updatedAt": "2015-12-21T13:35:29.000-08:00",
+      "uniqueId": "858059",
+      "social": {
+        "liking": {
+          "key": "rating_users_Review916745274",
+          "label": "Mike’s review of Blackout (All Clear, #1)"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "review:916745274:cc",
+          "subjectUrl": "https://localhost:3001/review/916745274/comments",
+          "subject": {
+            "type": "Review",
+            "id": 916745274
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1433715206i/6506307._SY180_.jpg",
+        "bookId": "6506307",
+        "workId": "6697901",
+        "bookUrl": "/book/show/6506307-blackout",
+        "authorName": "Connie Willis",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/14032.Connie_Willis",
+        "title": "Blackout",
+        "numPages": 512,
+        "avgRating": "3.00"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "shelvingId": null,
+      "resource": {
+        "headerText": " rated a book",
+        "rating": 3,
+        "readAtText": "Read in Oct 2015",
+        "user": {
+          "viewableName": "Mike Mueller",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1355990428i/9032502._UY60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/9032502-mike-mueller"
+        }
+      }
+    },
+    {
+      "id": 2767394364,
+      "resourceDisplayName": "Mike’s review of All Clear (All Clear, #2)",
+      "resourceId": 1428554124,
+      "resourceType": "Review",
+      "resourceUrl": "https://localhost:3001/review/show/1428554124",
+      "updatedAt": "2015-12-21T13:35:12.000-08:00",
+      "uniqueId": "255851",
+      "social": {
+        "liking": {
+          "key": "rating_users_Review1428554124",
+          "label": "Mike’s review of All Clear (All Clear, #2)"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "review:1428554124:cc",
+          "subjectUrl": "https://localhost:3001/review/1428554124/comments",
+          "subject": {
+            "type": "Review",
+            "id": 1428554124
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1320549311i/7519231._SY180_.jpg",
+        "bookId": "7519231",
+        "workId": "9735628",
+        "bookUrl": "/book/show/7519231-all-clear",
+        "authorName": "Connie Willis",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/14032.Connie_Willis",
+        "title": "All Clear",
+        "numPages": 643,
+        "avgRating": "2.00"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "shelvingId": null,
+      "resource": {
+        "headerText": " rated a book",
+        "rating": 2,
+        "readAtText": "Read in Dec 2015",
+        "user": {
+          "viewableName": "Mike Mueller",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1355990428i/9032502._UY60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/9032502-mike-mueller"
+        }
+      }
+    },
+    {
+      "id": 2767385661,
+      "resourceDisplayName": "Katie’s status",
+      "resourceId": 1119156588,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1119156588",
+      "updatedAt": "2015-12-21T13:29:52.000-08:00",
+      "uniqueId": "404514",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1119156588",
+          "label": "Katie’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1119156588:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1119156588/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1119156588
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1353048590i/6334._SY180_.jpg",
+        "bookId": "6334",
+        "workId": "1499998",
+        "bookUrl": "/book/show/6334.Never_Let_Me_Go",
+        "authorName": "Kazuo Ishiguro",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/4280.Kazuo_Ishiguro",
+        "title": "Never Let Me Go",
+        "numPages": 288,
+        "avgRating": "4.06"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Katie Boyer",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1363038527i/13868271._UY60_CR1,0,60,60_.jpg",
+          "profileUrl": "/user/show/13868271-katie-boyer"
+        }
+      },
+      "shelvingId": 1369153693
+    },
+    {
+      "id": 2767316145,
+      "resourceDisplayName": "Phil’s status",
+      "resourceId": 1119095835,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1119095835",
+      "updatedAt": "2015-12-21T12:49:20.000-08:00",
+      "uniqueId": "913936",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1119095835",
+          "label": "Phil’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1119095835:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1119095835/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1119095835
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1347472374i/9756484._SX120_.jpg",
+        "bookId": "9756484",
+        "workId": "14645775",
+        "bookUrl": "/book/show/9756484-remote-control",
+        "authorName": "Kotaro Isaka",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/5622845.Kotaro_Isaka",
+        "title": "Remote Control",
+        "numPages": 343,
+        "avgRating": "5.00"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Phil",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1416723495i/1466319._UY60_CR3,0,60,60_.jpg",
+          "profileUrl": "/user/show/1466319-phil"
+        }
+      },
+      "shelvingId": 1475415032
+    },
+    {
+      "id": 2767313977,
+      "resourceDisplayName": "Suzanne is a friend of Tony",
+      "resourceId": 435882716,
+      "resourceType": "Friend",
+      "resourceUrl": "https://localhost:3001/friend/show/435882716",
+      "updatedAt": "2015-12-21T12:48:01.000-08:00",
+      "uniqueId": "595819",
+      "social": {
+        "liking": {
+          "key": "rating_users_Friend435882716",
+          "label": "Suzanne is a friend of Tony"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "friend:435882716:cc",
+          "subjectUrl": "https://localhost:3001/friend/435882716/comments",
+          "subject": {
+            "type": "Friend",
+            "id": 435882716
+          }
+        }
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "ratingDetailsText": "48 ratings (4.19 avg)",
+        "user": {
+          "viewableName": "Suzanne",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1400547572i/5246491._UY60_CR1,0,60,60_.jpg",
+          "profileUrl": "/user/show/5246491-suzanne"
+        },
+        "friendUser": {
+          "viewableName": "Tony",
+          "profileImage": "https://localhost:3001/assets/nophoto/user/m_75x75.png",
+          "profileUrl": "/user/show/44551499-tony"
+        },
+        "isMyFriend": true,
+        "isRequestPending": false,
+        "addFriendUrl": "/friend/add_as_friend/44551499",
+        "compareBooksUrl": "/user/compare/44551499",
+        "currentlyReadingBook": {
+          "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1347404214i/7781339._SY40_.jpg",
+          "bookId": "7781339",
+          "workId": "14424644",
+          "bookUrl": "/book/show/7781339-the-shattering",
+          "authorName": "Christie Golden",
+          "isGrAuthor": false,
+          "authorUrl": "/author/show/7710.Christie_Golden",
+          "title": "The Shattering",
+          "numPages": 352,
+          "avgRating": 0
+        }
+      }
+    },
+    {
+      "id": 2767257576,
+      "resourceDisplayName": "Sukhesh’s status",
+      "resourceId": 1119045119,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1119045119",
+      "updatedAt": "2015-12-21T12:15:39.000-08:00",
+      "uniqueId": "762763",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1119045119",
+          "label": "Sukhesh’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1119045119:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1119045119/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1119045119
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1424472532i/830._SY180_.jpg",
+        "bookId": "830",
+        "workId": "493634",
+        "bookUrl": "/book/show/830.Snow_Crash",
+        "authorName": "Neal Stephenson",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/545.Neal_Stephenson",
+        "title": "Snow Crash",
+        "numPages": 470,
+        "avgRating": "3.90"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Sukhesh Miryala",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1409177807i/34374627.jpg",
+          "profileUrl": "/user/show/34374627-sukhesh-miryala"
+        }
+      },
+      "shelvingId": 1475387111
+    },
+    {
+      "id": 2767162329,
+      "resourceDisplayName": "Suzanne’s status",
+      "resourceId": 1118954709,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118954709",
+      "updatedAt": "2015-12-21T11:16:26.000-08:00",
+      "uniqueId": "261572",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118954709",
+          "label": "Suzanne’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118954709:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118954709/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118954709
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1386925052i/16121._SY180_.jpg",
+        "bookId": "16121",
+        "workId": "1312015",
+        "bookUrl": "/book/show/16121.Titan",
+        "authorName": "Ron Chernow",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/9950.Ron_Chernow",
+        "title": "Titan",
+        "numPages": 832,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Suzanne",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1400547572i/5246491._UY60_CR1,0,60,60_.jpg",
+          "profileUrl": "/user/show/5246491-suzanne"
+        }
+      },
+      "shelvingId": 1475337335
+    },
+    {
+      "id": 2767155637,
+      "resourceDisplayName": "John’s status",
+      "resourceId": 1118948442,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118948442",
+      "updatedAt": "2015-12-21T11:12:09.000-08:00",
+      "uniqueId": "715255",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118948442",
+          "label": "John’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118948442:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118948442/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118948442
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1343550609i/12899901._SX120_.jpg",
+        "bookId": "12899901",
+        "workId": "1774568",
+        "bookUrl": "/book/show/12899901-genki",
+        "authorName": "Eri Banno",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/197370.Eri_Banno",
+        "title": "Genki",
+        "numPages": 130,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "John Lee",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1415697714i/4381153._UX60_CR0,9,60,60_.jpg",
+          "profileUrl": "/user/show/4381153-john-lee"
+        }
+      },
+      "shelvingId": 1454744615
+    },
+    {
+      "id": 2767155585,
+      "resourceDisplayName": "John’s status",
+      "resourceId": 1118948393,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118948393",
+      "updatedAt": "2015-12-21T11:12:07.000-08:00",
+      "uniqueId": "673694",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118948393",
+          "label": "John’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118948393:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118948393/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118948393
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1343550378i/12899848._SX120_.jpg",
+        "bookId": "12899848",
+        "workId": "777491",
+        "bookUrl": "/book/show/12899848-genki",
+        "authorName": "Eri Banno",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/197370.Eri_Banno",
+        "title": "Genki",
+        "numPages": 385,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "John Lee",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1415697714i/4381153._UX60_CR0,9,60,60_.jpg",
+          "profileUrl": "/user/show/4381153-john-lee"
+        }
+      },
+      "shelvingId": 1454744510
+    },
+    {
+      "id": 2767155113,
+      "resourceDisplayName": "John’s status",
+      "resourceId": 1118947935,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118947935",
+      "updatedAt": "2015-12-21T11:11:49.000-08:00",
+      "uniqueId": "979498",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118947935",
+          "label": "John’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118947935:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118947935/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118947935
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1372227163i/1152869._SX120_.jpg",
+        "bookId": "1152869",
+        "workId": "499238",
+        "bookUrl": "/book/show/1152869._1",
+        "authorName": "Kiyohiko Azuma",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/24610.Kiyohiko_Azuma",
+        "title": "よつばと! 1",
+        "numPages": 226,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as 日本語",
+        "reviewText": null,
+        "user": {
+          "viewableName": "John Lee",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1415697714i/4381153._UX60_CR0,9,60,60_.jpg",
+          "profileUrl": "/user/show/4381153-john-lee"
+        }
+      },
+      "shelvingId": 1454744732
+    },
+    {
+      "id": 2767102989,
+      "resourceDisplayName": "Will’s status",
+      "resourceId": 1118902412,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118902412",
+      "updatedAt": "2015-12-21T10:40:03.000-08:00",
+      "uniqueId": "145007",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118902412",
+          "label": "Will’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118902412:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118902412/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118902412
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1399844477i/10374._SY180_.jpg",
+        "bookId": "10374",
+        "workId": "2531870",
+        "bookUrl": "/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World",
+        "authorName": "Haruki Murakami",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/3354.Haruki_Murakami",
+        "title": "Hard-Boiled Wonderland and the End of the World",
+        "numPages": 400,
+        "avgRating": "4.08"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Will Ransohoff",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1423686736i/33720863._UX60_CR0,9,60,60_.jpg",
+          "profileUrl": "/user/show/33720863-will-ransohoff"
+        }
+      },
+      "shelvingId": 1099274408
+    },
+    {
+      "id": 2767057294,
+      "resourceDisplayName": "Anthony’s status",
+      "resourceId": 1118863370,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118863370",
+      "updatedAt": "2015-12-21T10:12:58.000-08:00",
+      "uniqueId": "646027",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118863370",
+          "label": "Anthony’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118863370:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118863370/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118863370
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1348062216i/1234924._SX120_.jpg",
+        "bookId": "1234924",
+        "workId": "1223546",
+        "bookUrl": "/book/show/1234924.When_Computers_Were_Human",
+        "authorName": "David Alan Grier",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/597403.David_Alan_Grier",
+        "title": "When Computers Were Human",
+        "numPages": 411,
+        "avgRating": "4.00"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Anthony",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1384022842i/14436697._UX60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/14436697-anthony"
+        }
+      },
+      "shelvingId": 1475286420
+    },
+    {
+      "id": 2766951961,
+      "resourceDisplayName": "Daniel’s status",
+      "resourceId": 1118771908,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118771908",
+      "updatedAt": "2015-12-21T09:08:43.000-08:00",
+      "uniqueId": "613767",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118771908",
+          "label": "Daniel’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118771908:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118771908/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118771908
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1328753094i/1785102._SY180_.jpg",
+        "bookId": "1785102",
+        "workId": "42276848",
+        "bookUrl": "/book/show/1785102.The_Communist_Manifesto_and_Other_Writings",
+        "authorName": "Karl Marx",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/7084.Karl_Marx",
+        "title": "The Communist Manifesto and Other Writings",
+        "numPages": 224,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Daniel Weaver",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1434179255i/20575427._UX60_CR0,9,60,60_.jpg",
+          "profileUrl": "/user/show/20575427-daniel-weaver"
+        }
+      },
+      "shelvingId": 1475238280
+    },
+    {
+      "id": 2766946715,
+      "resourceDisplayName": "Emily’s review of Siege and Storm (The Grisha, #2)",
+      "resourceId": 1438218217,
+      "resourceType": "Review",
+      "resourceUrl": "https://localhost:3001/review/show/1438218217",
+      "updatedAt": "2015-12-21T09:05:13.000-08:00",
+      "uniqueId": "798548",
+      "social": {
+        "liking": {
+          "key": "rating_users_Review1438218217",
+          "label": "Emily’s review of Siege and Storm (The Grisha, #2)"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "review:1438218217:cc",
+          "subjectUrl": "https://localhost:3001/review/1438218217/comments",
+          "subject": {
+            "type": "Review",
+            "id": 1438218217
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1362184572i/17406539._SX120_.jpg",
+        "bookId": "17406539",
+        "workId": "19699752",
+        "bookUrl": "/book/show/17406539-siege-and-storm",
+        "authorName": "Leigh Bardugo",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/4575289.Leigh_Bardugo",
+        "title": "Siege and Storm",
+        "numPages": 448,
+        "avgRating": "3.00"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "shelvingId": null,
+      "resource": {
+        "headerText": " rated a book",
+        "rating": 3,
+        "readAtText": "Read in Dec 2015",
+        "user": {
+          "viewableName": "Emily",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1424285627i/2431873._UX60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/2431873-emily"
+        }
+      }
+    },
+    {
+      "id": 2766894345,
+      "resourceDisplayName": "Eric’s status",
+      "resourceId": 1118722977,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118722977",
+      "updatedAt": "2015-12-21T08:32:40.000-08:00",
+      "uniqueId": "29468",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118722977",
+          "label": "Eric’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118722977:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118722977/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118722977
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1425611143i/22609485._SY180_.jpg",
+        "bookId": "22609485",
+        "workId": "42099445",
+        "bookUrl": "/book/show/22609485-the-soul-of-an-octopus",
+        "authorName": "Sy Montgomery",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/13364.Sy_Montgomery",
+        "title": "The Soul of an Octopus",
+        "numPages": 261,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as to-read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Eric Franklin",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1327028354i/7478358._UX60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/7478358-eric-franklin"
+        }
+      },
+      "shelvingId": 1475211750
+    },
+    {
+      "id": 2766389524,
+      "resourceDisplayName": "jeff’s status",
+      "resourceId": 1118317848,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118317848",
+      "updatedAt": "2015-12-21T00:59:03.000-08:00",
+      "uniqueId": "540004",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118317848",
+          "label": "jeff’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118317848:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118317848/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118317848
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1177957756i/745481._SX120_.jpg",
+        "bookId": "745481",
+        "workId": "731630",
+        "bookUrl": "/book/show/745481.Cine_East",
+        "authorName": "Miles Wood",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/394756.Miles_Wood",
+        "title": "Cine East",
+        "numPages": 162,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "jeff wong",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1365029540i/19059508._UX60_CR0,5,60,60_.jpg",
+          "profileUrl": "/user/show/19059508-jeff-wong"
+        }
+      },
+      "shelvingId": 1474987761
+    },
+    {
+      "id": 2766241399,
+      "resourceDisplayName": "Marin’s status",
+      "resourceId": 1118190336,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118190336",
+      "updatedAt": "2015-12-20T22:21:46.000-08:00",
+      "uniqueId": "798485",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118190336",
+          "label": "Marin’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118190336:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118190336/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118190336
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1449142000i/22816087._SY180_.jpg",
+        "bookId": "22816087",
+        "workId": "42299347",
+        "bookUrl": "/book/show/22816087-seveneves",
+        "authorName": "Neal Stephenson",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/545.Neal_Stephenson",
+        "title": "Seveneves",
+        "numPages": 880,
+        "avgRating": "4.25"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Marin",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1361486934i/7536513._UX60_CR0,10,60,60_.jpg",
+          "profileUrl": "/user/show/7536513-marin"
+        }
+      },
+      "shelvingId": 1468110789
+    },
+    {
+      "id": 2766219530,
+      "resourceDisplayName": "Amy’s status",
+      "resourceId": 1118171867,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1118171867",
+      "updatedAt": "2015-12-20T22:02:07.000-08:00",
+      "uniqueId": "295025",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1118171867",
+          "label": "Amy’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1118171867:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1118171867/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1118171867
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1365712180i/17792189._SX120_.jpg",
+        "bookId": "17792189",
+        "workId": "2361393",
+        "bookUrl": "/book/show/17792189-walden",
+        "authorName": "Henry David Thoreau",
+        "isGrAuthor": false,
+        "authorUrl": "/author/show/10264.Henry_David_Thoreau",
+        "title": "Walden",
+        "numPages": 243,
+        "avgRating": "4.00"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as currently-reading",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Amy",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1406957311i/236356._UX60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/236356-amy"
+        }
+      },
+      "shelvingId": 1474905698
+    },
+    {
+      "id": 2765972844,
+      "resourceDisplayName": "Emily’s review of Shadow and Bone (The Grisha, #1)",
+      "resourceId": 1382980570,
+      "resourceType": "Review",
+      "resourceUrl": "https://localhost:3001/review/show/1382980570",
+      "updatedAt": "2015-12-20T19:16:40.000-08:00",
+      "uniqueId": "429418",
+      "social": {
+        "liking": {
+          "key": "rating_users_Review1382980570",
+          "label": "Emily’s review of Shadow and Bone (The Grisha, #1)"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "review:1382980570:cc",
+          "subjectUrl": "https://localhost:3001/review/1382980570/comments",
+          "subject": {
+            "type": "Review",
+            "id": 1382980570
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1333622558i/13578987._SY180_.jpg",
+        "bookId": "13578987",
+        "workId": "15093325",
+        "bookUrl": "/book/show/13578987-shadow-and-bone",
+        "authorName": "Leigh Bardugo",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/4575289.Leigh_Bardugo",
+        "title": "Shadow and Bone",
+        "numPages": 369,
+        "avgRating": "3.67"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "shelvingId": null,
+      "resource": {
+        "headerText": " reviewed a book",
+        "rating": 3,
+        "readAtText": "Read in Dec 2015",
+        "reviewBody": {
+          "html": "HRRRRRMMMMMMMM<br /><br />So, lots of things to love about this book! I'm a big fan of the following, in no particular order: <br /><br />- orphans with hitherto unforeseen magical powers<br />- hot dudes with cool titles (\"Darkling\" I mean come on. though it did remind me of Tamora Pierce's darkings. positive? negative? unclear)<br />- magic systems with class divisions, to add snobbery and intrigue <br />- fantasy worlds with cultural divisions vaguely si…",
+          "truncated": true,
+          "fullContentUrl": "/review/show/1382980570"
+        },
+        "user": {
+          "viewableName": "Emily",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1424285627i/2431873._UX60_CR0,0,60,60_.jpg",
+          "profileUrl": "/user/show/2431873-emily"
+        }
+      }
+    },
+    {
+      "id": 2765768054,
+      "resourceDisplayName": "Marin’s status",
+      "resourceId": 1117748184,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1117748184",
+      "updatedAt": "2015-12-20T17:02:52.000-08:00",
+      "uniqueId": "697440",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1117748184",
+          "label": "Marin’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1117748184:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1117748184/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1117748184
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1418081437i/21532133._SY180_.jpg",
+        "bookId": "21532133",
+        "workId": "2489796",
+        "bookUrl": "/book/show/21532133-outlander",
+        "authorName": "Diana Gabaldon",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/3617.Diana_Gabaldon",
+        "title": "Outlander",
+        "numPages": 850,
+        "avgRating": "3.75"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Marin",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1361486934i/7536513._UX60_CR0,10,60,60_.jpg",
+          "profileUrl": "/user/show/7536513-marin"
+        }
+      },
+      "shelvingId": 1236914308
+    },
+    {
+      "id": 2765767693,
+      "resourceDisplayName": "Marin’s status",
+      "resourceId": 1117747840,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1117747840",
+      "updatedAt": "2015-12-20T17:02:34.000-08:00",
+      "uniqueId": "393543",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1117747840",
+          "label": "Marin’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1117747840:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1117747840/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1117747840
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1432752248i/23211020._SX120_.jpg",
+        "bookId": "23211020",
+        "workId": "42753848",
+        "bookUrl": "/book/show/23211020-secondhand-souls",
+        "authorName": "Christopher Moore",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/16218.Christopher_Moore",
+        "title": "Secondhand Souls",
+        "numPages": 352,
+        "avgRating": 0
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Marin",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1361486934i/7536513._UX60_CR0,10,60,60_.jpg",
+          "profileUrl": "/user/show/7536513-marin"
+        }
+      },
+      "shelvingId": 1121301887
+    },
+    {
+      "id": 2765767449,
+      "resourceDisplayName": "Marin’s status",
+      "resourceId": 1117747605,
+      "resourceType": "ReadStatus",
+      "resourceUrl": "https://localhost:3001/read_statuses/1117747605",
+      "updatedAt": "2015-12-20T17:02:22.000-08:00",
+      "uniqueId": "876616",
+      "social": {
+        "liking": {
+          "key": "rating_users_ReadStatus1117747605",
+          "label": "Marin’s status"
+        },
+        "commenting": {
+          "commentable": true,
+          "canComment": true,
+          "subjectKey": "readstatus:1117747605:cc",
+          "subjectUrl": "https://localhost:3001/read_status/1117747605/comments",
+          "subject": {
+            "type": "ReadStatus",
+            "id": 1117747605
+          }
+        }
+      },
+      "book": {
+        "imageUrl": "https://i.gr-assets.com/images/S/photo.goodreads.com/books/1405292426i/20685373._SX120_.jpg",
+        "bookId": "20685373",
+        "workId": "40000267",
+        "bookUrl": "/book/show/20685373-without-you-there-is-no-us",
+        "authorName": "Suki Kim",
+        "isGrAuthor": true,
+        "authorUrl": "/author/show/8581.Suki_Kim",
+        "title": "Without You, There Is No Us",
+        "numPages": 304,
+        "avgRating": "4.00"
+      },
+      "user": {
+        "viewableName": "Otis Chandler",
+        "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1189644957i/1._UX60_CR0,15,60,60_.jpg",
+        "profileUrl": "/user/show/1-otis-chandler"
+      },
+      "resource": {
+        "headerText": " marked as read",
+        "reviewText": null,
+        "user": {
+          "viewableName": "Marin",
+          "profileImage": "https://i.gr-assets.com/images/S/photo.goodreads.com/users/1361486934i/7536513._UX60_CR0,10,60,60_.jpg",
+          "profileUrl": "/user/show/7536513-marin"
+        }
+      },
+      "shelvingId": 1121247933
+    }
+  ]
+}
