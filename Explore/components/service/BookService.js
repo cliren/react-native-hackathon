@@ -1,4 +1,4 @@
-const baseURL = "http://192.168.0.108:8081/";
+const baseURL = "http://localhost:8081/";
 
 let getURL = (path) => {
   return baseURL + path;
