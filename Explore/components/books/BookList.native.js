@@ -10,7 +10,6 @@ import React, {
 import AppStyles from '../AppStyles';
 import BookListStyles from './BookListStyles';
 import {compact} from 'lodash';
-import Book from '../book';
 import {getBooks} from '../service/BookService';
 
 const { bindActionCreators } = require('redux');
@@ -54,19 +53,8 @@ class BookList extends Component {
     this.fetchBooks();
   }
 
-  showBook(book) {
-
-    this.props.navigator.push({
-      title: book.title,
-      component: Book,
-      passProps: {...book}
-    });
-  }
-
   renderBook(book) {
     return (
-      <TouchableHighlight onPress={() => this.showBook(book)}
-                          style={BookListStyles.container1}>
         <View style={BookListStyles.container}>
           <Image
             style={BookListStyles.bookImage}
@@ -76,7 +64,6 @@ class BookList extends Component {
             <Text style={BookListStyles.bookTitle}>{book.title}</Text>
           </View>
         </View>
-      </TouchableHighlight>
     );
 
 
