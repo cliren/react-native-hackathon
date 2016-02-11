@@ -3,20 +3,24 @@ import {StyleSheet} from 'react-native';
 export default StyleSheet.create({
   container: {
     flex: 1,
-    paddingTop: 30,
-    paddingLeft: 5,
-    paddingRight: 5,
-    justifyContent: 'flex-start',
-    alignItems: 'flex-start',
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
     backgroundColor: '#F5FCFF',
-    flexDirection: 'row'
+    padding: 10
   },
   bookTitle: {
     flex: 1,
-    paddingLeft: 10
+    paddingLeft: 10,
+    fontSize: 15,
+    marginBottom: 8
   },
   bookImage: {
-    height: 60,
-    width: 40
+    width: 53,
+    height: 81,
+    marginRight: 10
+  },
+  rightContainer: {
+    flex: 1
   }
 });

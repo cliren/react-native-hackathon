@@ -17,6 +17,6 @@ export default StyleSheet.create({
     margin: 3
   },
   listView: {
-    flex: 1
+    backgroundColor: '#F5FCFF'
   }
 });

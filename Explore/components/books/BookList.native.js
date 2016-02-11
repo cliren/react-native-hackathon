@@ -72,7 +72,9 @@ class BookList extends Component {
             style={BookListStyles.bookImage}
             source={{uri: book.imageUrl}}
             />
-          <Text style={BookListStyles.bookTitle}>{book.title}</Text>
+          <View style={BookListStyles.rightContainer}>
+            <Text style={BookListStyles.bookTitle}>{book.title}</Text>
+          </View>
         </View>
       </TouchableHighlight>
     );
