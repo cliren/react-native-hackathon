@@ -1,7 +1,7 @@
 # Hack Day Notes
 
 If you haven't installed the required tools necessary, follow the [docs](http://goodreads.github.io/react-native-hackathon/index.html)
-to get your environment setup. Please download XCode if you haven't already have it.
+to get your environment setup. Please download XCode if you haven't already (required to work on an iOS app).
 
 
 
